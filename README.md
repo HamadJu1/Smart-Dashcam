@@ -40,7 +40,7 @@ This project, Smart Dashcam, automates the process of analyzing dashcam footage 
 This dataset includes 500 dashcam videos of collisions (head-on, rear, and side) along with 1,000 manually labeled accident images. It also contains traffic laws in PDF format for analysis. The data is suitable for training accident detection and analysis models.
 
 -- [Accident Detection in Dashcam POV Dataset(Manual gathering & Labeling)]()
--- [Traffic laws as pdf]()
+-- [Traffic laws as pdf](https://drive.google.com/file/d/1aKrGPVZ2W32BfBGhQtVzk9HyDI8NS8VX/view?usp=drive_link)
 -- [Rear_collision](https://drive.google.com/drive/folders/1XAzc9qJ9c0peERNgByfD3-hLLIy9eFu8?usp=drive_link)
 
  ### Key Features:
