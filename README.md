@@ -96,13 +96,15 @@ Detailed analysis of the accident, including fault percentages for each driver.
 
 The report will be available for download from the Colab environment once the process is complete.
 
+![PDF_report](https://github.com/HamadJu1/Smart-Dashcam/blob/c8d03bd9d967d5995ae241cef35e8a175e79d8b2/Report_Picture.png)
+
 
 ## Dependencies
 ```
 !pip install -r requirements.txt
 ```
 
-##Deployment 
+## Deployment 
 
 You can try the deployment space at 
 
@@ -128,4 +130,4 @@ https://huggingface.co/spaces/hamad121/Accident_percent_of_erorr
 
 
 - Project Member : *Abdulaziz Sulaiman Alosayl*
-  - Email :abdulaziz.alosayl@gmail.com# Smart Dashcam - Accident Analysis and Fault Assignment
+  - Email :abdulaziz.alosayl@gmail.com
